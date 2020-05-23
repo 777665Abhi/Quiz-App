@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="?android:colorBackground"
+    tools:context="au_edu_jcu_cp3406.quizapp.ui.HomeActivity">
+
+    <ImageView
+        android:id="@+id/ivImage"
+        android:layout_width="180dp"
+        android:layout_height="180dp"
+        android:layout_marginTop="56dp"
+        android:src="@drawable/images_3"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/tvDetail"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="32dp"
+        android:layout_marginTop="56dp"
+        android:gravity="center"
+        android:text="Quiz Time app is an Educational Game for high school kids that helps them with some aspect of schoolwork."
+        android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/ivImage" />
+
+    <TextView
+        android:id="@+id/btPlay"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="32dp"
+        android:layout_marginTop="56dp"
+        android:background="@drawable/circular_bg"
+        android:drawableLeft="@drawable/ic_assignment"
+        android:drawablePadding="16dp"
+        android:drawableTint="@color/colorWhite"
+        android:gravity="center"
+        android:paddingHorizontal="50dp"
+        android:paddingVertical="12dp"
+        android:text="Let's Play"
+        android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+        android:textColor="@color/colorWhite"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/tvDetail" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="32dp"
+        android:layout_marginTop="32dp"
+        android:orientation="horizontal"
+        android:weightSum="100"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/btPlay">
+
+        <TextView
+            android:id="@+id/tvHighestScore"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="45"
+            android:background="@drawable/circular_bg"
+            android:drawableLeft="@drawable/ic_highest_score"
+            android:drawablePadding="8dp"
+            android:drawableTint="@color/colorWhite"
+            android:padding="8dp"
+            android:text="Best Score"
+            android:textColor="@color/colorWhite" />
+
+        <View
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="10" />
+
+        <TextView
+            android:id="@+id/tvSetting"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="45"
+            android:background="@drawable/circular_bg"
+            android:drawableLeft="@drawable/ic_settings"
+            android:drawablePadding="8dp"
+            android:drawableTint="@color/colorWhite"
+            android:padding="8dp"
+            android:text="Setting     "
+            android:textColor="@color/colorWhite" />
+    </LinearLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

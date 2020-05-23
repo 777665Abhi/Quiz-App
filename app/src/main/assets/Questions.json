@@ -1,0 +1,483 @@
+{
+  "questionsTough": [
+    {
+      "question": "If the string is stretched by two opposite forces of 10 N then tension in the string Will be?",
+      "option1": "5N",
+      "option2": "20N",
+      "option3": "10N",
+      "option4": "zero",
+      "answer": "zero"
+    },
+    {
+      "question": "To every action, there is always an equal but opposite reaction, this statement is known as?",
+      "option1": "newton's 2nd law of motion",
+      "option2": "newton's 1st law of motion",
+      "option3": "newton's 3rd law of motion",
+      "option4": "law of momentum",
+      "answer": "newton's 3rd law of motion"
+    },
+    {
+      "question": "At high speeds the friction is?",
+      "option1": "increased",
+      "option2": "decreased",
+      "option3": "zero",
+      "option4": "infinite",
+      "answer": "decreased"
+    },{
+      "question": "Mass of a body (m) into acceleration (a) is equal to?",
+      "option1": "inertia",
+      "option2": "displacement",
+      "option3": "momentum",
+      "option4": "force",
+      "answer": "force"
+    },{
+      "question": "The force of friction between a rolling body and a surface over which it rolls is called?",
+      "option1": "sliding friction",
+      "option2": "rolling friction",
+      "option3": "limiting friction",
+      "option4": "vertical friction",
+      "answer": "rolling friction"
+    },
+    {
+      "question": "The natural source of pollution is?",
+      "option1": "rain forest",
+      "option2": "mining for minerals",
+      "option3": "forest fire",
+      "option4": "falling of meteoroids",
+      "answer": "forest fire"
+    },
+    {
+      "question": "The harmful substance released by power plants and cars?",
+      "option1": "carbon dioxide",
+      "option2": "oxygen",
+      "option3": "potassium",
+      "option4": "magnesium",
+      "answer": "carbon dioxide"
+    },
+    {
+      "question": "The layer of atmosphere that absorbs ultraviolet rays from Sun?",
+      "option1": "Troposphere",
+      "option2": "Ozone layer",
+      "option3": "Thermosphere",
+      "option4": "Mesosphere",
+      "answer": "Ozone layer"
+    },
+    {
+      "question": "The way in which plants die because of dropped level of oxygen is classified as?",
+      "option1": "Eutrophication",
+      "option2": "Allotrophication",
+      "option3": "Oxygenation",
+      "option4": "De-oxygenation",
+      "answer": "Eutrophication"
+    },
+    {
+      "question": "The poisonous substances that can be present in industrial wastes does not includes?",
+      "option1": "Phosphates",
+      "option2": "Nitrates",
+      "option3": "Mercury and lead",
+      "option4": "Oxygen",
+      "answer": "Oxygen"
+    },
+    {
+      "question": "If the arc of circle of radius 30 cm has a length of 19 cm then the angle subtended at center of circle?",
+      "option1": "51.28",
+      "option2": "16.28",
+      "option3": "46.28",
+      "option4": "36.28",
+      "answer": "36.28"
+    },
+    {
+      "question": "The chord divides the circle Into how many segments?",
+      "option1": "2",
+      "option2": "3",
+      "option3": "4",
+      "option4": "5",
+      "answer": "2"
+    },
+    {
+      "question": "By converting angle from degrees to the radians, the 40° is equal to?",
+      "option1": "0.287",
+      "option2": "0.698 rad",
+      "option3": "0.865 rad",
+      "option4": "0.345 rad",
+      "answer": "0.698 rad"
+    },
+    {
+      "question": "The angles in opposite segments are classified as?",
+      "option1": "Acute",
+      "option2": "Supplementary",
+      "option3": "Complementary",
+      "option4": "Obtuse",
+      "answer": "Supplementary"
+    },
+    {
+      "question": "If the radius is 21 cm and the angle at center of circle is 140° then the length of the arc?",
+      "option1": "42.23 cm",
+      "option2": "73.24 cm",
+      "option3": "51.31 cm",
+      "option4": "62.42 cm",
+      "answer": "51.31 cm"
+    },
+    {
+      "question": " As the size of the atom increases down the group, the electro positivity?",
+      "option1": "Increases",
+      "option2": "Decreases",
+      "option3": "Remains same",
+      "option4": "None of above",
+      "answer": "Increases"
+    },
+    {
+      "question": "Bromine is a non-metal in?",
+      "option1": "solid state",
+      "option2": "liquid state",
+      "option3": "gaseous state",
+      "option4": "plasma state",
+      "answer": "liquid state"
+    },
+    {
+      "question": "Halogens react with metals to form?",
+      "option1": "Halides",
+      "option2": "Oxides",
+      "option3": "Halogen compounds",
+      "option4": "Hydrogenated compounds",
+      "answer": "Halides"
+    },
+    {
+      "question": "The tendency of a metal to lose electron is called?",
+      "option1": "Electronegativity",
+      "option2": "Electro positivity",
+      "option3": "Electroplating",
+      "option4": "Electrolysis",
+      "answer": "Electro positivity"
+    },
+    {
+      "question": "As we move across the period the basic character of oxides?",
+      "option1": "Increases",
+      "option2": "Remains same",
+      "option3": "Decreases",
+      "option4": "Becomes zero",
+      "answer": "Decreases"
+    }
+
+    ],
+  "questionsMedium": [
+    {
+      "question": "The ribs moves upwards and outwards when we?",
+      "option1": "Inhale",
+      "option2": "Exhale",
+      "option3": "Digestion",
+      "option4": "Defecate",
+      "answer": "Inhale"
+    },
+    {
+      "question": "Platelets help in blood?",
+      "option1": "Producing",
+      "option2": "Rejuvenating",
+      "option3": "Clotting",
+      "option4": "Purifying",
+      "answer": "Clotting"
+    },
+    {
+      "question": "The circulatory system of human is composed of?",
+      "option1": "Heart",
+      "option2": "Blood",
+      "option3": "Blood vessels",
+      "option4": "All of them",
+      "answer": "All of them"
+    },{
+      "question": "The external part of nose through which air enters is called?",
+      "option1": "Trachea",
+      "option2": "Alveoli",
+      "option3": "Nostril",
+      "option4": "Bronchi",
+      "answer": "Nostril"
+    },{
+      "question": "The protein which is red in color and present in blood is called?",
+      "option1": "Hemoglobin",
+      "option2": "Red cells",
+      "option3": "Platelets",
+      "option4": "Iron cells",
+      "answer": "Hemoglobin"
+    },
+    {
+      "question": "Conversion of a liquid to a gas at all temperatures is called?",
+      "option1": "sublimation",
+      "option2": "evaporation",
+      "option3": "condensation",
+      "option4": "boiling",
+      "answer": "evaporation"
+    },
+    {
+      "question": "The temperature at which the solid starts melting is called?",
+      "option1": "Boiling point",
+      "option2": "Freezing point",
+      "option3": "Melting point",
+      "option4": "Sublimating point",
+      "answer": "Melting point"
+    },
+    {
+      "question": "At Mount Everest, the water boils at?",
+      "option1": "100 °C",
+      "option2": "90 °C",
+      "option3": "80 °C",
+      "option4": "70 °C",
+      "answer": "70 °C"
+    },
+    {
+      "question": "If the liquid is heated to increase the kinetic energy then the liquid will?",
+      "option1": "Evaporate slowly",
+      "option2": "Evaporate faster",
+      "option3": "Not evaporate",
+      "option4": "Boil",
+      "answer": "Evaporate faster"
+    },
+    {
+      "question": "Atmospheric pressure is equal to?",
+      "option1": "100.345 Pa",
+      "option2": "760 kPa",
+      "option3": "101.325 kPa",
+      "option4": "1.01325 mmHg",
+      "answer": "101.325 kPa"
+    },
+    {
+      "question": "The number of vibrations in a second is called?",
+      "option1": "Pitch",
+      "option2": "Frequency",
+      "option3": "Amplitude",
+      "option4": "Infrasound",
+      "answer": "Frequency"
+    },
+    {
+      "question": "The higher the frequency the greater will be?",
+      "option1": "Pitch",
+      "option2": "Loudness",
+      "option3": "Amplitude",
+      "option4": "Infrasound",
+      "answer": "Pitch"
+    },
+    {
+      "question": "Loudness is measured in units called?",
+      "option1": "Hertz",
+      "option2": "Decibels",
+      "option3": "Pascal",
+      "option4": "Ampere",
+      "answer": "Decibels"
+    },
+    {
+      "question": "The wavelength of the high frequency sound wave is?",
+      "option1": "longer",
+      "option2": "Shorter",
+      "option3": "Same",
+      "option4": "Constant",
+      "answer": "Shorter"
+    },
+    {
+      "question": "The regions where molecules are compressed are called?",
+      "option1": "Rarefactions",
+      "option2": "Compressions",
+      "option3": "Digressions",
+      "option4": "Progressions",
+      "answer": "Compressions"
+    },
+    {
+      "question": "I want to while away my time ____________ new places in the world.",
+      "option1": "visit",
+      "option2": "visiting",
+      "option3": "visits",
+      "option4": "visited",
+      "answer": "visiting"
+    },
+    {
+      "question": "If he comes, we ____________ go with him.",
+      "option1": "could",
+      "option2": "be",
+      "option3": "shall",
+      "option4": "being",
+      "answer": "shall"
+    },
+    {
+      "question": "I checked my bag, hoping to ____________ my money but did not.",
+      "option1": "got",
+      "option2": "gets",
+      "option3": "get",
+      "option4": "getting",
+      "answer": "get"
+    },
+    {
+      "question": "When they entered the room, the light ____________ quite dazzling.",
+      "option1": "were",
+      "option2": "are",
+      "option3": "have",
+      "option4": "was",
+      "answer": "was"
+    },
+    {
+      "question": "After she came home, she ____________ tea.",
+      "option1": "make",
+      "option2": "made",
+      "option3": "is make",
+      "option4": "was make",
+      "answer": "made"
+    }
+  ],
+  "questionsEasy": [
+    {
+      "question": "Wide variety of living things is called?",
+      "option1": "Diversity",
+      "option2": "Biodiversity",
+      "option3": "Habitat",
+      "option4": "Population",
+      "answer": "Biodiversity"
+    },
+    {
+      "question": "The sleep like state which an animal adopt to lower metabolic rates is called?",
+      "option1": "Transpiration",
+      "option2": "Shedding of leaves",
+      "option3": "Hibernating",
+      "option4": "Migration",
+      "answer": "Hibernating"
+    },
+    {
+      "question": "Animal which is being hunt down is called?",
+      "option1": "Predator",
+      "option2": "Prey",
+      "option3": "Scavenger",
+      "option4": "Wild animal",
+      "answer": "Prey"
+    },{
+      "question": "In aquatic animals the important physical factor is?",
+      "option1": "light",
+      "option2": "Temperature",
+      "option3": "Pressure",
+      "option4": "Volume",
+      "answer": "Temperature"
+    },{
+      "question": "The animals which feed on plants are called?",
+      "option1": "Herbivores",
+      "option2": "Carnivores",
+      "option3": "Omnivores",
+      "option4": "Ovivores",
+      "answer": "Herbivores"
+    },
+    {
+      "question": "By evaluating cos 68° + sin 72°/tan 58° + cos 47°, the answer will be?",
+      "option1": "1.5852",
+      "option2": "0.588",
+      "option3": "0.8085",
+      "option4": "0.5808",
+      "answer": "0.5808"
+    },
+    {
+      "question": "The two trigonometrical ratios whose values cannot be greater than 1 are?",
+      "option1": "sine and cosine",
+      "option2": "sine and tangent",
+      "option3": "tangent and cosine",
+      "option4": "all of above",
+      "answer": "sine and cosine"
+    },
+    {
+      "question": "The formula used to measure circumference of circle is?",
+      "option1": "2πr",
+      "option2": "πr² + 2r",
+      "option3": "πr²",
+      "option4": "πr",
+      "answer": "2πr"
+    },
+    {
+      "question": "The straight line equation y = 5x - 2 has gradient of?",
+      "option1": "x + y",
+      "option2": "xy",
+      "option3": "2",
+      "option4": "5",
+      "answer": "5"
+    },
+    {
+      "question": "The new unit to express magnitude of angle is called?",
+      "option1": "cosine",
+      "option2": "radian",
+      "option3": "circumference",
+      "option4": "area",
+      "answer": "radian"
+    },
+    {
+      "question": "Sound having frequencies above 20000Hz are called?",
+      "option1": "infrasound",
+      "option2": "ultrasound",
+      "option3": "mega sound",
+      "option4": "micro sound",
+      "answer": "ultrasound"
+    },
+    {
+      "question": "Unwanted sounds are called?",
+      "option1": "noises",
+      "option2": "pleasant",
+      "option3": "fruitful",
+      "option4": "healthy",
+      "answer": "noises"
+    },
+    {
+      "question": "Sound travels at a speed of 343m/s in?",
+      "option1": "air",
+      "option2": "water",
+      "option3": "steel",
+      "option4": "fire",
+      "answer": "air"
+    },
+    {
+      "question": "Humans can hear the sound with in range?",
+      "option1": "20Hz - 20000Hz",
+      "option2": "10Hz-10000Hz",
+      "option3": "200Hz-20000Hz",
+      "option4": "30Hz--30000Hz",
+      "answer": "20Hz - 20000Hz"
+    },
+    {
+      "question": "The symbol of decibel is?",
+      "option1": "Dc",
+      "option2": "dB",
+      "option3": "Dec",
+      "option4": "dl",
+      "answer": "dB"
+    },
+    {
+      "question": "The human activities that causes climate change on Earth includes?",
+      "option1": "burning of forests",
+      "option2": "agricultural activities",
+      "option3": "use of aerosol cans",
+      "option4": "all of above",
+      "answer": "all of above"
+    },
+    {
+      "question": "An example of the folding of two continental plates is?",
+      "option1": "Indo-Australian and North American Plate",
+      "option2": "Indo-Australian and Eurasian Plate",
+      "option3": "Eurasian and Persian Plate",
+      "option4": "Persian and Arabian Plate",
+      "answer": "Indo-Australian and North American Plate"
+    },
+    {
+      "question": "The planet which is also known as Blue Planet is?",
+      "option1": "Saturn",
+      "option2": "Jupiter",
+      "option3": "Earth",
+      "option4": "Mars",
+      "answer": "Earth"
+    },
+    {
+      "question": "The percentage of Earth surface which is covered by oceans and seas is?",
+      "option1": "50%",
+      "option2": "65%",
+      "option3": "85%",
+      "option4": "97%",
+      "answer": "97%"
+    },
+    {
+      "question": "Earthquakes occur when there is a sudden release of stored up energy in the Earth's?",
+      "option1": "inner core",
+      "option2": "outer core",
+      "option3": "upper mantle",
+      "option4": "lower crust",
+      "answer": "upper mantle"
+    }
+  ]
+}
